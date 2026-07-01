@@ -1,0 +1,17 @@
+{
+  "short_name": "Gout Care",
+  "name": "Gout Care　ー痛風改善サポートー",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#8a2be2",
+  "display": "standalone",
+  "orientation": "portrait"
+}

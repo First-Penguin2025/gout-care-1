@@ -1,0 +1,8 @@
+{
+  "name": "Gout Care ー痛風改善サポートー",
+  "description": "痛風の改善と尿酸値コントロールを支援する生活習慣改善アプリ。プリン体チェッカー、水分補給トラッカー、飲酒量記録、尿酸値グラフ、AIアドバイザーを搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
